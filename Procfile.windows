@@ -1,1 +1,1 @@
-web: python kappassets.py
+web: python kappassets.py --log-file -
